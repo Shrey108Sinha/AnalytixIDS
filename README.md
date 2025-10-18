@@ -1,4 +1,3 @@
-#AnalytixIDS
 # ML-Based Intrusion Detection System with Explainable AI
 
 A production-ready Flask API for real-time network threat detection using machine learning and explainable AI (XAI). This project demonstrates end-to-end ML engineering, from model training to API deployment with interpretability.
@@ -43,7 +42,7 @@ Inference Phase (Flask API)
 
 1. **Clone and navigate:**
    ```bash
-   git clone 
+   git clone command
    cd AnalytixIDS
    ```
 
